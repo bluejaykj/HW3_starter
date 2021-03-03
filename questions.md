@@ -5,9 +5,9 @@
 
 ## 1. Minimax and Alphabeta
 
-**1.1**  For the [first game tree on the HW3 page](https://www.csee.umbc.edu/courses/undergraduate/471/spring21/02/hw/HW3/mm0.png), use the minimax algorithm to compute a value for each non-leaf node. Squares represent max nodes and circles represent min nodes. Indicate which move the maximizing player should make.  You'll find this png file in your repo.
+**1.1**  For the [first game tree on the HW3 page](https://www.csee.umbc.edu/courses/undergraduate/471/spring21/02/hw/HW3/mm0.png), use the minimax algorithm to compute a value for each non-leaf node. Squares represent max nodes and circles represent min nodes. Indicate which move the maximizing player should make. Edit game_trees.ppt via powerpoint or google docs and push the .ppt and .pdf versions of the result to your repo.
 
-**1.2** Simulate the alpha-beta algorithm on the [second game tree on the HW3 page](https://www.csee.umbc.edu/courses/undergraduate/471/spring21/02/hw/HW3/mm1.png), crossing out the nodes that are pruned. For each non-leaf node that is not pruned, show the exact value (e.g., =3) or the last constraint (e.g., <= 2, >=8) that the alpha-beta algorithm determines. You'll find this png file in your repo.
+**1.2** Simulate the alpha-beta algorithm on the [second game tree on the HW3 page](https://www.csee.umbc.edu/courses/undergraduate/471/spring21/02/hw/HW3/mm1.png), crossing out the nodes that are pruned. For each non-leaf node that is not pruned, show the exact value (e.g., =3) or the last constraint (e.g., <= 2, >=8) that the alpha-beta algorithm determines. Edit game_trees.ppt via powerpoint or google docs and push the .ppt and .pdf versions of the result to your repo.
 
 
 ## 2. Game characteristics

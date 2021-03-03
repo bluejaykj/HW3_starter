@@ -73,13 +73,9 @@ class Nim(games.Game):
         modified to check for exacly two players and optionaly print
         moves made by each player."""
 
-        if len(*players) != 2:
-            print("Exactly two players are required")
-
         state = self.initial
         if self.show_moves:
             print(f"Initial state: {state}")
-            return
 
         # let the two players alternate making moves until a terminal
         # state is reached. Return the final value, which will be plus
